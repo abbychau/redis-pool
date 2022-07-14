@@ -1,5 +1,5 @@
 {
-    "name": "rayswoole/redis-pool",
+    "name": "abbychau/redis-pool",
     "description": "基于swoole + phpredis扩展的redis连接池",
     "keywords": [
         "rayswoole",
